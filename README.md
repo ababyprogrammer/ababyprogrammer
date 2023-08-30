@@ -1,0 +1,7 @@
+- 👋 Hello world, I’m @ababyprogrammer.
+- I am an Iranian teenager and I went to a music academy when I was 2 years old.
+- I am interested in martial arts.
+- I started martial arts when I was 7 years old.
+- I love Solidity programming language.
+- I started learning Solidity when I was 12 years old.
+- You can visit my Github/Telegram/Whatsapp.
