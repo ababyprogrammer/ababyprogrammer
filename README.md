@@ -6,6 +6,3 @@
 - I went to a music academy when I was 2.
 - I am interested in Solidity.
 - You can visit my Github/Telegram/Whatsapp.
-<a herf="#">
-	<img src="/getintorj/getintorj/raw/master/contributions.svg" style="max-width: 100%;">
- </a>
