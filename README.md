@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <video src="E:/Amirmahdi/Github/MyAI.mp4"></video>
+
+    <video controls>
+     <source src="Amirmahdi/Github/MyAI.mp4" type="video/mp4">
+    </video>
+
   </body>
 </html>
 - 👋 Hello world, I’m @ababyprogrammer.
