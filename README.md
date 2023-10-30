@@ -2,6 +2,8 @@
 - I am an Iranian teenager.
 - I love Solidity programming language.
 - I started learning Solidity when I was 12 years old.
+- I love the space.
+- I leared the space science when I was 6 years old.
 - I started martial arts when I was 7.
 - I went to a music academy when I was 2.
 - I am interested in Solidity.
