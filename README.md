@@ -19,6 +19,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ababyprogrammer&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ababyprogrammer&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ababyprogrammer&label=Profile%20Views&color=8&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
