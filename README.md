@@ -79,7 +79,7 @@ You can visit my GitHub/Telegram/WhatsApp.
 <a href="https://github.com/ababyprogrammer" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/ababyprogrammer" target="_blank">
+<a href="https://medium.com/@ababyprogrammer" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -120,4 +120,4 @@ Three things that will make you successful:
 
 <br />
 
----
+----
