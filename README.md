@@ -92,7 +92,7 @@ You can visit my GitHub/Telegram/WhatsApp.
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ababyprogrammer&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
 <br/>  
-###########################################################################################################
+######################################################################################################
 
 
 ### A baby programmer  
