@@ -93,10 +93,6 @@ You can visit my GitHub/Telegram/WhatsApp.
 
 <br/>  
 
-
-## Recent Blog Posts  
-
-
 ### A baby programmer  
 Three things that will make you successful:
 1. Effort
