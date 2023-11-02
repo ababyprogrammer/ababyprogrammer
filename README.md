@@ -100,7 +100,8 @@ Three things that will make you successful:
 1. Effort
 2. Effort
 3. Effort  
-  
+
+From **Mr.BruceLee**
 
 <br/>  
 
