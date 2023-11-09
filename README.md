@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm A baby programmer</h1>
 <h3 align="center">I am a Iranian teenager.</h3>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" alt="ababyprogrammer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ababyprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="ababyprogrammer" /> </p>
+
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" alt="ababyprogrammer" /></a> </p>
 
 - I'm have a repository for Smart Contract. [Smart-Contract](https://github.com/ababyprogrammer/Smart-Contract)
 
@@ -11,9 +13,13 @@
 
 - I'm have a repository for JavaScript/TypeScript/Java [Backend](https://github.com/ababyprogrammer/Backend)
 
+- I do some work in the NASA website. [https://www.nasa.gov/](https://www.nasa.gov/)
+
 - I know how to write Smart Contract. I know it %15. **I love Space science.**
 
 - You want to talk to me? You can send me a E-mail. **ababyprogrammer@gmail.com**
+
+- Who am I? **I am a backend and front end programmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ababyprogrammer&show_icons=true&locale=en&layout=compact" alt="ababyprogrammer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ababyprogrammer&show_icons=true&locale=en" alt="ababyprogrammer" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ababyprogrammer&" alt="ababyprogrammer" /></p>
