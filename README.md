@@ -34,7 +34,7 @@
 
 - I'm have a repository for JavaScript/TypeScript/Java [Backend](https://github.com/ababyprogrammer/Backend)
 
-- I know 20% of network security. [https://en.wikipedia.org/wiki/Network_security](https://en.wikipedia.org/wiki/Network_security)
+- I know 20% of network security. [Security](https://github.com/ababyprogrammer/Security)
 
 - I know how to write Smart Contract. I know it %15. **I love Space science.**
 
