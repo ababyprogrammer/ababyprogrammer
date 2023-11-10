@@ -10,6 +10,8 @@
   <img src="https://profile-counter.glitch.me/getintorj/count.svg"/>
 </p>
 
+---
+
 - I'm have a repository for Smart Contract. [Smart-Contract](https://github.com/ababyprogrammer/Smart-Contract)
 
 - I leaned the CS50 in Harvard. **CS50-CS50x-CS50T-CS50AI-CS50P**
