@@ -5,6 +5,11 @@
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" alt="ababyprogrammer" /></a> </p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/getintorj/count.svg"/>
+</p>
+
 - I'm have a repository for Smart Contract. [Smart-Contract](https://github.com/ababyprogrammer/Smart-Contract)
 
 - I leaned the CS50 in Harvard. **CS50-CS50x-CS50T-CS50AI-CS50P**
