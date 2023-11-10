@@ -38,6 +38,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ababyprogrammer&show_icons=true&locale=en&layout=compact" alt="ababyprogrammer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ababyprogrammer&show_icons=true&locale=en" alt="ababyprogrammer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=getintorj&theme=blue-green&show_icons=true" alt="ababyprogrammer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ababyprogrammer&" alt="ababyprogrammer" /></p>
