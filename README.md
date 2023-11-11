@@ -20,9 +20,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"> 
-  Visitor count<br>
+ 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
   <img src="https://profile-counter.glitch.me/getintorj/count.svg"/>
-</p>
+  </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -56,9 +56,9 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ababyprogrammer&show_icons=true&locale=en&layout=compact" alt="ababyprogrammer" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ababyprogrammer&show_icons=true&locale=en&layout=compact" alt="ababyprogrammer" width="35%" /></p>
 
-<a href="https://github.com/ababyprogrammer?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ababyprogrammer&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@A baby programmer's github-readme-stats"/>
+<a href="https://github.com/ababyprogrammer?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ababyprogrammer&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="50%" alt="@A baby programmer's github-readme-stats"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ababyprogrammer&" alt="ababyprogrammer" /></p>
 
