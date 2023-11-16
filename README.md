@@ -171,11 +171,7 @@
 </table>
 <br><br>
 
-<p align="center">
-    <a href="#">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=getintorj&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
-    </a>
-</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ababyprogrammer&show_icons=true&locale=en&layout=compact" alt="ababyprogrammer" width="35%" /></p>
 
