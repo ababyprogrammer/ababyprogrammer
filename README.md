@@ -142,7 +142,7 @@
     </td>
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
-      <br>VsCode
+      <br>VSCode
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ruby" width="40" height="40" alt="WordPress" />
