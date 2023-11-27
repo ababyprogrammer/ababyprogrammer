@@ -145,8 +145,8 @@
       <br>VSCode
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ruby" width="40" height="40" alt="WordPress" />
-      <br>Ruby
+        <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="WordPress" />
+      <br>Vue
     </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" alt="Vue" />
