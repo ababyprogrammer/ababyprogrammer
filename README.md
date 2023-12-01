@@ -45,7 +45,8 @@
 <a href="https://medium.com/@ababyprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ababyprogrammer" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -170,7 +171,8 @@
 <br><br>
 
 
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ababyprogrammer&show_icons=true&locale=en&layout=compact" alt="ababyprogrammer" width="38%" /></p>
 
 <a href="https://github.com/ababyprogrammer?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ababyprogrammer&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="54%" alt="@A baby programmer's github-readme-stats"/>
