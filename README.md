@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=A BABY%20PROGRAMMER%20;BACKEND%20PROGRAMMER%20;FRONTEND%20PROGRAMMER%20;A STUDENT %20AT%20HARVARD%20UNIVERSITY;ARTIFICIAL INTELLIGENCE (AI);PROGRAMMER%20;KNOW%20SECURITY;3%2B%20YEAR's%20I%20START%20PROGRAMMING;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=00ffff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <h1 align="center">Hi 👋, I'm A baby programmer</h1>
 <h3 align="center">I am a Iranian teenager.</h3>
@@ -180,7 +180,7 @@
 <a href="https://github.com/ababyprogrammer?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ababyprogrammer&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="50%" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <div align="center">
   <i>"Three things that lead to success in anything: <br><b>1.Effort</b>/<b>2.Effort</b>/<b>3.Effort</b><b>.<br> From the Grand master Bruce.Lee</b>"</i>
