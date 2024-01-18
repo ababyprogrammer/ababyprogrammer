@@ -36,6 +36,8 @@
 
 - Who am I? **I am a backend and front end programmer**
 
+<img src="https://i.pinimg.com/originals/46/8f/5e/468f5ebf78c3ff7db6f062ee7117fc1a.gif" width="200"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://medium.com/@ababyprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ababyprogrammer" height="30" width="40" /></a>
@@ -176,7 +178,7 @@
 <a href="https://github.com/ababyprogrammer?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ababyprogrammer&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="50%" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<hr>
 
 <div align="center">
   <i>"Three things that lead to success in anything: <br><b>1.Effort</b>/<b>2.Effort</b>/<b>3.Effort</b><b>.<br> From the Grand master Bruce.Lee</b>"</i>
