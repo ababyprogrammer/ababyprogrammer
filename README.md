@@ -181,5 +181,5 @@
 <hr>
 
 <div align="center">
-  <i>"Three things that lead to success in anything: <br><b>1.Effort</b>/<b>2.Effort</b>/<b>3.Effort</b><b>.<br> From the Grand master Bruce.Lee</b>"</i>
+  <i>"Three things that lead to success in anything: <br><b>1.Effort</b>/<b>2.Effort</b>/<b>3.Effort</b><b>.<br> From Professor David j. Malan</b>"</i>
 </div>
