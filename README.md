@@ -195,3 +195,10 @@
 <div align="center">
   <i>"Three things that lead to success in anything: <br><b>1.Effort</b>/<b>2.Effort</b>/<b>3.Effort</b><b>.<br> From Professor David j. Malan</b>"</i>
 </div>
+
+---
+
+<div align="center">
+
+<img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/getintorj/getintorj/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" />
+<br />
