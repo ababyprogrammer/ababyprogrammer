@@ -180,7 +180,10 @@
 ## <a href="https://ababyprogrammer.com"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></a><b> Github Stats </b>
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ababyprogrammer&show_icons=true&locale=en&layout=compact" alt="ababyprogrammer" width="38%" /></p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getintorj&theme=gotham&layout=compact"width="40%"/> 
+</p>
 
 <a href="https://github.com/ababyprogrammer?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ababyprogrammer&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="54%" alt="@A baby programmer's github-readme-stats"/>
 
