@@ -170,15 +170,6 @@
 </table>
 <br><br>
 
-<!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://ababyprogrammer.com/">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ababyprogrammer&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="97%" alt="activity graph">
-    </a>
-</p>
-<!-- activity graph heroku-app end -->
-
-
 ## <a href="https://ababyprogrammer.com"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></a><b> Github Stats </b>
 
 <br>
@@ -191,6 +182,14 @@
 <a href="https://github.com/ababyprogrammer?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ababyprogrammer&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="49%" alt="@Ababyprogrammer's github-readme-stats"/></a>
 <a href="https://github.com/ababyprogrammer?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ababyprogrammer&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="49%" alt="@Ababyprogrammer's github-readme-streak-stats"/></a>
 </p>
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://ababyprogrammer.com/">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ababyprogrammer&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="97%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
 
 <hr>
 
