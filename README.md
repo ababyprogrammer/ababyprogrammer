@@ -36,8 +36,6 @@
 
 - Who am I? **I am a backend and front end programmer**
 
-<img src="https://i.pinimg.com/originals/46/8f/5e/468f5ebf78c3ff7db6f062ee7117fc1a.gif" width="200"/>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://medium.com/@ababyprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ababyprogrammer" height="30" width="40" /></a>
