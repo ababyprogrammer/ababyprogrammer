@@ -180,11 +180,6 @@
 <!-- activity graph heroku-app end -->
 
 <hr>
-
-<div align="center">
-  <i>"Three things that lead to success in anything: <br><b>1.Effort</b>/<b>2.Effort</b>/<b>3.Effort</b><b>.<br> From Professor David j. Malan</b>"</i>
-</div>
-
 ---
 
 <div align="center">
