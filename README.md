@@ -6,8 +6,6 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-<img width="100%" src="assest/github baner.jpg" />
-
 <h1 align="center">Hi 👋, I'm A baby programmer</h1>
 <h3 align="center">I am a Iranian teenager.</h3>
 
