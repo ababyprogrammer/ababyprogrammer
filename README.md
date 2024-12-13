@@ -180,7 +180,6 @@
 <!-- activity graph heroku-app end -->
 
 <hr>
----
 
 <div align="center">
 
