@@ -13,21 +13,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- I'm have a repository for Smart Contract. [Smart-Contract](https://github.com/ababyprogrammer/Smart-Contract)
-
-- I leaned the CS50 in Harvard. **CS50-CS50x-CS50T-CS50AI-CS50P**
-
-- I'm have a repository for C/C++/C# [C](https://github.com/ababyprogrammer/C)
-
-- I'm have a repository for JavaScript/TypeScript/Java [Backend](https://github.com/ababyprogrammer/Backend)
-
-- I know 20% of network security. [Security](https://github.com/ababyprogrammer/Security)
-
-- I know how to write Smart Contract. I know it %15. **I love Space science.**
-
 - You want to talk to me? You can send me a E-mail. **ababyprogrammer@gmail.com**
-
-- Who am I? **I am a backend and front end programmer**
 
 <p align="center">
  <img width="1000" src="assest/github-snake.svg" alt="snake"/>
