@@ -1,7 +1,6 @@
 <p align="center">
   <!-- Typing SVG by Ababyprogrammer -->
-  <a href="https://github.com/ababyprogrammer">
-    <img src="https://readme-typing-svg.demolab.com/?lines=A BABY%20PROGRAMMER%20;BACKEND%20PROGRAMMER%20;FRONTEND%20PROGRAMMER%20;A STUDENT %20AT%20HARVARD%20UNIVERSITY;ARTIFICIAL INTELLIGENCE (AI);PROGRAMMER%20;KNOW%20SECURITY;4%20YEAR's%20START%20PROGRAMMING;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=13AB02&vCenter=true&pause=1000&size=22" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=36DC00&background=1647FF00&center=true&width=435&lines=Programmer+(Backend+-+Frontend);A+student+at+Harvard+University;Start+programming+for+3+years;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
