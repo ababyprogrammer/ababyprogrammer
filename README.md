@@ -10,8 +10,6 @@
 
 <p align="left"> <a href="https://ababyprogrammer.com"><img src="assest/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d72796f2d6d61267468656d653d6d6174726978.svg" alt="ababyprogrammer" /></a> </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 - You want to talk to me? You can send me a E-mail. **ababyprogrammer@gmail.com**
 
 <p align="center">
