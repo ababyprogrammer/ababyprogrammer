@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Typing SVG by Ababyprogrammer -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=36DC00&background=1647FF00&center=true&width=435&lines=Programmer+(Backend+-+Frontend);A+student+at+Harvard+University;Start+programming+for+3+years;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=36DC00&background=1647FF00&center=true&width=435&lines=Programmer+(Backend+-+Frontend);A+student+at+Harvard+University;Start+programming+for+4+years;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
