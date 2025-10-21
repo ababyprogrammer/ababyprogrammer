@@ -10,6 +10,26 @@
 
 <p align="left"> <a href="https://ababyprogrammer.com"><img src="assest/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d72796f2d6d61267468656d653d6d6174726978.svg" alt="ababyprogrammer" /></a> </p>
 
+
+<h3 align="center">❗ Due to young age and problems with countries sanction, many certificates are not available ❗</h3>
+<h4 align="center">{( The most prestigious certificates earned by Amirmahdi Izadyar )}</h4>
+<h3>[ 🎓 Great Learning Certificate ]</h3>
+<div class=".certi-corner" >
+  <img src="assest/Certificate/Amirmahdi's-certificate-01.jpg" class="border-radius: 12px" width="220px" />
+  <img src="assest/Certificate/Amirmahdi's-certificate-02.jpg" width="220px" />
+</div>
+
+<h3>[ 🎓 Microsoft Certificate ]</h3>
+
+<div>
+  <img src="assest/Certificate/Amirmahdi's-certificate-03.jpg" width="220px" />
+  <img src="assest/Certificate/Amirmahdi's-certificate-04.jpg" width="220px" />
+  <img src="assest/Certificate/Amirmahdi's-certificate-05.jpg" width="220px" />
+  <img src="assest/Certificate/Amirmahdi's-certificate-06.jpg" width="220px" />
+  <img src="assest/Certificate/Amirmahdi's-certificate-07.jpg" width="220px" />
+  <img src="assest/Certificate/Amirmahdi's-certificate-08.jpg" width="220px" />
+</div>
+<br>
 - You want to talk to me? You can send me a E-mail. **ababyprogrammer@gmail.com**
 
 <p align="center">
