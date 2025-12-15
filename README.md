@@ -15,8 +15,8 @@
 <h4 align="center">{( The most prestigious certificates earned by Amirmahdi Izadyar )}</h4>
 <h3>[ 🎓 Great Learning Certificate ]</h3>
 <div class=".certi-corner" >
-  <img src="assest/Certificate/Amirmahdi's-certificate-01.jpg" class="border-radius: 12px" width="220px" />
-  <img src="assest/Certificate/Amirmahdi's-certificate-02.jpg" width="220px" />
+  <img src="assest/Certificate/Amirmahdi's-certificate-01.jpg" width="300px" />
+  <img src="assest/Certificate/Amirmahdi's-certificate-02.jpg" width="300px" />
 </div>
 
 <h3>[ 🎓 Microsoft Certificate ]</h3>
