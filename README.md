@@ -10,6 +10,7 @@
 
 <p align="left"> <a href="https://ababyprogrammer.com"><img src="assest/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d72796f2d6d61267468656d653d6d6174726978.svg" alt="ababyprogrammer" /></a> </p>
 
+<img src="assest/Christmas.jpg" />
 
 <h3 align="center">❗ Due to young age and problems with countries sanction, many certificates are not available ❗</h3>
 <h4 align="center">{( The most prestigious certificates earned by Amirmahdi Izadyar )}</h4>
